@@ -1,0 +1,35 @@
+.section1j
+{
+
+    /* background-color: aquamarine; */
+    height: 3%;
+    margin-left: 30px;
+    display:flex
+    ;
+}
+
+.searchsection6jobj
+{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.section7jobsearch
+{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 100%;
+    height: 20%;
+    /* background-color: rgb(114, 14, 125); */
+}
+.td{
+    height: 50px;
+    width: 60px;
+}
+.tablestyle
+{
+
+margin-left: 60px;
+border-radius: 20px;
+width: 90%;
+background-color: aliceblue;
+}

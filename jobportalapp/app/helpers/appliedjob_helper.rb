@@ -1,0 +1,2 @@
+module AppliedjobHelper
+end

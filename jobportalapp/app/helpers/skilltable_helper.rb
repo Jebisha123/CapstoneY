@@ -1,0 +1,2 @@
+module SkilltableHelper
+end
